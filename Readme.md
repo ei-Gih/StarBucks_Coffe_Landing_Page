@@ -1,5 +1,3 @@
-<img src='imagens/Starbucks-logo.png' width="500px" align="right" />
-
 ##Uma landing page, inteiramente de html e css, do Starbucks seguindo a imagem de referência.🥤
 
 
